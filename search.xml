@@ -1,44 +1,122 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>第二篇文章</title>
-    <url>/2019/11/10/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</url>
-    <content><![CDATA[<blockquote class="blockquote-center">优秀的人，不是不合群，而是他们合群的人里面没有你</blockquote><h1 id="1-Webpack-4新特性"><a href="#1-Webpack-4新特性" class="headerlink" title="1.Webpack 4新特性"></a>1.Webpack 4新特性</h1><p>就撒给大家阿萨德噶的感觉哈给大家哈根</p><h2 id="1-1-hello"><a href="#1-1-hello" class="headerlink" title="1.1 hello"></a>1.1 hello</h2><p>氨基酸高低贵贱阿萨德感觉撒谎的感觉撒谎的感觉阿萨德会根据阿斯顿噶金黄色的感觉到撒会感觉到干大事件韩国的撒娇噶大家</p><h2 id="1-2-world"><a href="#1-2-world" class="headerlink" title="1.2 world"></a>1.2 world</h2><p>大家发送到发计划是大街上gas大家好噶三等奖哈告诉大家尬圣诞节哈啥的感觉打怪升级ad搜嘎解释道嘎四大金刚</p><a id="more"></a>
+    <title>前端开篇</title>
+    <url>/2019/11/17/%E5%89%8D%E7%AB%AF%E5%BC%80%E7%AF%87/</url>
+    <content><![CDATA[<h2 id="一-菜菜-时间表"><a href="#一-菜菜-时间表" class="headerlink" title="一.菜菜~时间表"></a>一.菜菜~时间表</h2><table>
+    <tr>
+        <td>时间</td>
+        <td>概要</td>
+    </tr>
+    <tr>
+        <td>上午</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>7:00-7:30</td>
+        <td>起床、洗漱</td>
+    </tr>
+    <tr>
+        <td>7:30-8:30</td>
+        <td>交通出行(复习昨天整理知识点)</td>
+    </tr>
+    <tr>
+        <td>8:30-9:00</td>
+        <td>上班打卡, 定计划、吃早饭</td>
+    </tr>
+    <tr>
+        <td>9:00-11:00</td>
+        <td>工作期间(提高效率,不能拖拉!!!)</td>
+    </tr>
+    <tr>
+        <td>11:00-11:10</td>
+        <td>休息期间(点外卖休息)</td>
+    </tr>
+    <tr>
+        <td>11:10-12:00</td>
+        <td>工作期间(提高效率,不能拖拉!!!)</td>
+    </tr>
+    <tr>
+        <td>午休</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>12:00-12:30</td>
+        <td>吃午饭</td>
+    </tr>
+    <tr>
+        <td>12:30-1:00</td>
+        <td>午休</td>
+    </tr>
+    <tr>
+        <td>1:00-2:00</td>
+        <td>上午完成的任务查漏补缺(测试,学习新知识)</td>
+    </tr>
+    <tr>
+        <td>2:00-6:00</td>
+        <td>工作期间(提高效率,今日事今日毕!!!)</td>
+    </tr>
+    <tr>
+        <td>6:00-6:30</td>
+        <td>今日完成任务测试</td>
+    </tr>
+    <tr>
+        <td>6:30-6:35</td>
+        <td>点外卖</td>
+    </tr>
+    <tr>
+        <td>6:40-7:00</td>
+        <td>今日任务全面测试</td>
+    </tr>
+    <tr>
+        <td>晚上</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>7:00-7:30</td>
+        <td>吃晚饭</td>
+    </tr>
+    <tr>
+        <td>7:30-10:00</td>
+        <td>加班期间(如果没有完成任务需要尽快加班完成,如果完成任务可以自学前端知识)</td>
+    </tr>
+    <tr>
+        <td>10:00-11:00</td>
+        <td>交通出行(微信读书)</td>
+    </tr>
+    <tr>
+        <td>11:00-12:00</td>
+        <td>百词斩</td>
+    </tr>
+    <tr>
+        <td>凌晨</td>    
+    </tr>
+    <tr>
+        <td>12:00-3:00</td>
+        <td>看技术书整理笔记,博客</td>
+    </tr>
+</table><a id="more"></a>
 
 
-
-
-<h2 id="1-3-haha"><a href="#1-3-haha" class="headerlink" title="1.3 haha"></a>1.3 haha</h2><p>好尬第三方哈撒给答复哈士大夫哈公司的发挥是打发斯蒂芬噶十多个哈士大夫哈刚收到发多少</p>
-<figure class="highlight js"><table><tr><td class="code"><pre><span class="line">angular.module(<span class="string">'app'</span>)</span><br><span class="line">  .directive(<span class="string">'uiFullscreen'</span>, [<span class="string">'uiLoad'</span>, <span class="string">'$document'</span>, <span class="string">'$window'</span>, <span class="function"><span class="keyword">function</span>(<span class="params">uiLoad, $document, $window</span>) </span>&#123;</span><br><span class="line">    <span class="keyword">return</span> &#123;</span><br><span class="line">      restrict: <span class="string">'AC'</span>,</span><br><span class="line">      template:<span class="string">'&lt;i class="fa fa-expand fa-fw text"&gt;&lt;/i&gt;&lt;i class="fa fa-compress fa-fw text-active"&gt;&lt;/i&gt;'</span>,</span><br><span class="line">      link: <span class="function"><span class="keyword">function</span>(<span class="params">scope, el, attr</span>) </span>&#123;</span><br><span class="line">        el.addClass(<span class="string">'hide'</span>);</span><br><span class="line">        uiLoad.load(<span class="string">'vendor/libs/screenfull.min.js'</span>).then(<span class="function"><span class="keyword">function</span>(<span class="params"></span>)</span>&#123;</span><br><span class="line">          <span class="comment">// disable on ie11</span></span><br><span class="line">          <span class="keyword">if</span> (screenfull.enabled &amp;&amp; !navigator.userAgent.match(<span class="regexp">/Trident.*rv:11\./</span>)) &#123;</span><br><span class="line">            el.removeClass(<span class="string">'hide'</span>);</span><br><span class="line">          &#125;</span><br><span class="line">          el.on(<span class="string">'click'</span>, <span class="function"><span class="keyword">function</span>(<span class="params"></span>)</span>&#123;</span><br><span class="line">            <span class="keyword">var</span> target;</span><br><span class="line">            attr.target &amp;&amp; ( target = $(attr.target)[<span class="number">0</span>] );            </span><br><span class="line">            screenfull.toggle(target);</span><br><span class="line">          &#125;);</span><br><span class="line">          $<span class="built_in">document</span>.on(screenfull.raw.fullscreenchange, <span class="function"><span class="keyword">function</span> (<span class="params"></span>) </span>&#123;</span><br><span class="line">            <span class="keyword">if</span>(screenfull.isFullscreen)&#123;</span><br><span class="line">              el.addClass(<span class="string">'active'</span>);</span><br><span class="line">            &#125;<span class="keyword">else</span>&#123;</span><br><span class="line">              el.removeClass(<span class="string">'active'</span>);</span><br><span class="line">            &#125;</span><br><span class="line">          &#125;);</span><br><span class="line">        &#125;);</span><br><span class="line">      &#125;</span><br><span class="line">    &#125;;</span><br><span class="line">&#125;]);</span><br><span class="line">        </span><br></pre></td></tr></table></figure>
-]]></content>
-  </entry>
-  <entry>
-    <title>第一篇博客</title>
-    <url>/2019/11/10/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<blockquote class="blockquote-center">优秀的人，不是不合群，而是他们合群的人里面没有你</blockquote><h3 id="1-Webpack4-新特性"><a href="#1-Webpack4-新特性" class="headerlink" title="1. Webpack4 新特性"></a>1. Webpack4 新特性</h3><p>就撒给大家阿萨德噶的感觉哈给大家哈根</p><h4 id="1-1-hello-大声道噶几时代感"><a href="#1-1-hello-大声道噶几时代感" class="headerlink" title="1.1 hello 大声道噶几时代感"></a>1.1 hello 大声道噶几时代感</h4><p>氨基酸高低贵贱阿萨德感觉撒谎的感觉撒谎的感觉阿萨德会根据阿斯顿噶金黄色的感觉到撒会感觉到干大事件韩国的撒娇噶大家</p><h4 id="1-2-world-大街上搭建十多个"><a href="#1-2-world-大街上搭建十多个" class="headerlink" title="1.2 world 大街上搭建十多个"></a>1.2 world 大街上搭建十多个</h4><p>大家发送到发计划是大街上gas大家好噶三等奖哈告诉大家尬圣诞节哈啥的感觉打怪升级ad搜嘎解释道嘎四大金刚</p><a id="more"></a>
-
-
-
-
-
-
-<h4 id="1-3-haha-宽度或gas尴尬数据的"><a href="#1-3-haha-宽度或gas尴尬数据的" class="headerlink" title="1.3 haha 宽度或gas尴尬数据的"></a>1.3 haha 宽度或gas尴尬数据的</h4><p>好尬第三方哈撒给答复哈士大夫哈公司的发挥是打发斯蒂芬噶十多个哈士大夫哈刚收到发多少</p>
-<pre><code class="language-CSS"><span class="selector-tag">p</span>{
-    <span class="attribute">font-size</span>:<span class="number">12px</span>;
-}
-
-
-
-
-
-</code></pre>
+<h2 id="二-目标标准"><a href="#二-目标标准" class="headerlink" title="二.目标标准"></a>二.目标标准</h2><ul>
+<li>1.每天7:00起床</li>
+<li>2.每天到公司先定计划</li>
+<li>3.上班期间打起十足的精神,投入到工作中</li>
+<li>4.代码需要分析思考,而不是复制粘贴那么简单(如果是之前开发过的,去找之前的代码,带着脑子分析复制过来)(如果是新开发的需要先分析是否哪里有代码,如果没有需要思路理清分析代码)</li>
+<li>5.技术提升靠的是敲代码而不是看代码</li>
+<li>6.工作中完成项目安排,逼自己尽量在上班期间完成</li>
+<li>7.提高效率做事(不会的问题先自己想想思路,不会去goole,若再不会问同事)</li>
+<li>8.每天工作加班,即使没有事也要加班</li>
+<li>9.每天以面试题为主复习基础</li>
+<li>10.每天英语学习一小时</li>
+</ul>
 ]]></content>
       <categories>
-        <category>学习</category>
+        <category>计划</category>
       </categories>
       <tags>
-        <tag>hello</tag>
-        <tag>markdown</tag>
+        <tag>前端</tag>
+        <tag>下定决心</tag>
       </tags>
   </entry>
 </search>
