@@ -1,9 +1,161 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>块级和行内元素</title>
+    <url>/2019/11/18/%E5%9D%97%E7%BA%A7%E5%92%8C%E8%A1%8C%E5%86%85%E5%85%83%E7%B4%A0/</url>
+    <content><![CDATA[<blockquote class="blockquote-center">优秀的人，不是不合群，而是他们合群的人里面没有你</blockquote><h3 id="一-块级元素与行内元素的区别"><a href="#一-块级元素与行内元素的区别" class="headerlink" title="一.块级元素与行内元素的区别"></a>一.块级元素与行内元素的区别</h3><h4 id="1-占据空间"><a href="#1-占据空间" class="headerlink" title="1.占据空间"></a>1.占据空间</h4><p>(1)<font color="red">块级元素</font>:默认占据一行(默认宽度是父容器的100%),垂直方向排列<br>(2)<font color="SkyBlue">行内元素</font>:在一条直线上排列(默认宽度与内容有关),水平方向排列</p><h4 id="2-嵌套规则"><a href="#2-嵌套规则" class="headerlink" title="2.嵌套规则"></a>2.嵌套规则</h4><p>(1)<font color="red">块级元素</font>:可以包含块级元素和行内元素<br>(2)<font color="SkyBlue">行内元素</font>:不能包含块级元素,只能包含文本或行内元素</p><a id="more"></a> 
+
+
+
+<h4 id="3-盒模型"><a href="#3-盒模型" class="headerlink" title="3.盒模型"></a>3.盒模型</h4><p>(1)<font color="red">块级元素</font>:width和height,margin和padding可以设置<br>(2)<font color="SkyBlue">行内元素</font>:width和height设置无效,margin-top、margin-bottom和padding-top、padding-bottom设置无效</p>
+<h3 id="二-置换元素和非置换元素"><a href="#二-置换元素和非置换元素" class="headerlink" title="二.置换元素和非置换元素"></a>二.置换元素和非置换元素</h3><h4 id="1-置换元素"><a href="#1-置换元素" class="headerlink" title="1.置换元素"></a>1.置换元素</h4><p>置换元素:用来置换元素内容的部分不由文档内容直接表示,元素本身拥有固有尺寸(宽高)的元素(可以设置宽高)<br><strong><font color="LightPink">img、input、textarea、select、button</font></strong></p>
+<h4 id="2-非置换元素"><a href="#2-非置换元素" class="headerlink" title="2.非置换元素"></a>2.非置换元素</h4><p>元素的内容由浏览器在元素自身生成的框中显示</p>
+<h3 id="三-块级元素列举"><a href="#三-块级元素列举" class="headerlink" title="三.块级元素列举"></a>三.块级元素列举</h3><table style="width:350px;">
+    <tr>
+        <td>&lt;address&gt;</td>
+        <td>联系方式信息</td>
+    </tr>
+    <tr>
+        <td>&lt;article&gt;</td>
+        <td>文章内容</td>
+    </tr>
+    <tr>
+        <td>&lt;selection&gt;</td>
+        <td>页面区段</td>
+    </tr>
+    <tr>
+        <td>&lt;aside&gt;</td>
+        <td>侧边栏</td>
+    </tr>
+    <tr>
+        <td>&lt;header&gt;</td>
+        <td>表头</td>
+    </tr>
+    <tr>
+        <td>&lt;footer&gt;</td>
+        <td>页脚</td>
+    </tr>
+    <tr>
+        <td>&lt;video&gt;</td>
+        <td>视频</td>
+    </tr>
+    <tr>
+        <td>&lt;audio&gt;</td>
+        <td>音频</td>
+    </tr>
+    <tr>
+        <td>&lt;blockquote&gt;</td>
+        <td>块引用</td>
+    </tr>
+    <tr>
+        <td>&lt;canvas&gt;</td>
+        <td>绘制图形</td>
+    </tr>
+    <tr>
+        <td>&lt;h1&gt; - &lt;h6&gt;</td>
+        <td>标题1-6</td>
+    </tr>
+    <tr>
+        <td>&lt;p&gt;</td>
+        <td>段落</td>
+    </tr>
+    <tr>
+        <td>&lt;div&gt;</td>
+        <td>块级容器</td>
+    </tr>
+    <tr>
+        <td>&lt;ul&gt;</td>
+        <td>无序列表</td>
+    </tr>
+    <tr>
+        <td>&lt;ol&gt;</td>
+        <td>有序列表</td>
+    </tr>
+    <tr>
+        <td>&lt;li&gt;</td>
+        <td>列表条目</td>
+    </tr>
+    <tr>
+        <td>&lt;hr&gt;</td>
+        <td>水平分割线</td>
+    </tr>
+    <tr>
+        <td>&lt;form&gt;</td>
+        <td>表单</td>
+    </tr>
+    <tr>
+        <td>&lt;dl&gt;</td>
+        <td>描述列表元素</td>
+    </tr>
+    <tr>
+        <td>&lt;dt&gt;</td>
+        <td>描述列表定义一个术语/名称</td>
+    </tr>
+    <tr>
+        <td>&lt;dd&gt;</td>
+        <td>描述列表术语描述</td>
+    </tr>
+    <tr>
+        <td>&lt;form&gt;</td>
+        <td>表单</td>
+    </tr>
+    <tr>
+        <td>&lt;fieldset&gt;</td>
+        <td>表单元素分组</td>
+    </tr>
+    <tr>
+        <td>&lt;legend&gt;</td>
+        <td>fieldset元素定义标题</td>
+    </tr>
+    <tr>
+        <td>&lt;figure&gt;</td>
+        <td>可附标题内容元素</td>
+    </tr>
+    <tr>
+        <td>&lt;figcaption&gt;</td>
+        <td>figure标题</td>
+    </tr>
+    <tr>
+        <td>&lt;pre&gt;</td>
+        <td>预定义格式文本</td>
+    </tr>
+    <tr>
+        <td>&lt;hgroup&gt;</td>
+        <td>标题组</td>
+    </tr>
+    <tr>
+        <td>&lt;table&gt;</td>
+        <td>表格</td>
+    </tr>
+
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+]]></content>
+      <categories>
+        <category>HTML</category>
+        <category>CSS</category>
+      </categories>
+      <tags>
+        <tag>HTML</tag>
+        <tag>CSS</tag>
+        <tag>基础</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>前端开篇</title>
     <url>/2019/11/17/%E5%89%8D%E7%AB%AF%E5%BC%80%E7%AF%87/</url>
-    <content><![CDATA[<h2 id="一-菜菜-时间表"><a href="#一-菜菜-时间表" class="headerlink" title="一.菜菜~时间表"></a>一.菜菜~时间表</h2><table>
+    <content><![CDATA[<blockquote class="blockquote-center">优秀的人，不是不合群，而是他们合群的人里面没有你</blockquote><h2 id="一-菜菜-时间表"><a href="#一-菜菜-时间表" class="headerlink" title="一.菜菜~时间表"></a>一.菜菜~时间表</h2><table>
     <tr>
         <td>时间</td>
         <td>概要</td>
@@ -95,7 +247,9 @@
         <td>12:00-3:00</td>
         <td>看技术书整理笔记,博客</td>
     </tr>
-</table><a id="more"></a>
+</table><a id="more"></a> 
+
+
 
 
 <h2 id="二-目标标准"><a href="#二-目标标准" class="headerlink" title="二.目标标准"></a>二.目标标准</h2><ul>
