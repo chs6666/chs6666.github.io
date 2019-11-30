@@ -59,18 +59,18 @@
 
 
 
-  <meta name="description" content="优秀的人，不是不合群，而是他们合群的人里面没有你一.块级元素与行内元素的区别1.占据空间(1)块级元素:默认占据一行(默认宽度是父容器的100%),垂直方向排列(2)行内元素:在一条直线上排列(默认宽度与内容有关),水平方向排列2.嵌套规则(1)块级元素:可以包含块级元素和行内元素(2)行内元素:不能包含块级元素,只能包含文本或行内元素">
-<meta name="keywords" content="CSS,基础,HTML">
+  <meta name="description" content="优秀的人，不是不合群，而是他们合群的人里面没有你一.引入CSS的几种方法1. 链接式link引入外部样式表123&amp;lt;head&amp;gt;	&amp;lt;link rel=&quot;stylesheet&quot; type=&quot;text&#x2F;css&quot; href=&quot;style.css&quot;&amp;gt;&amp;lt;&#x2F;head&amp;gt;2. 内嵌式  HTML提供了style标签以控制页面的显示样式，style元素位于head标签内部，type属">
+<meta name="keywords" content="CSS,基础">
 <meta property="og:type" content="article">
-<meta property="og:title" content="块级和行内元素">
-<meta property="og:url" content="https:&#x2F;&#x2F;chs6666.github.io&#x2F;2019&#x2F;11&#x2F;18&#x2F;%E5%9D%97%E7%BA%A7%E5%92%8C%E8%A1%8C%E5%86%85%E5%85%83%E7%B4%A0&#x2F;index.html">
+<meta property="og:title" content="你真的理解@import和link引入样式的区别吗">
+<meta property="og:url" content="https:&#x2F;&#x2F;chs6666.github.io&#x2F;2019&#x2F;11&#x2F;21&#x2F;%E4%BD%A0%E7%9C%9F%E7%9A%84%E7%90%86%E8%A7%A3-import%E5%92%8Clink%E5%BC%95%E5%85%A5%E6%A0%B7%E5%BC%8F%E7%9A%84%E5%8C%BA%E5%88%AB%E5%90%97&#x2F;index.html">
 <meta property="og:site_name" content="菜菜~blog">
-<meta property="og:description" content="优秀的人，不是不合群，而是他们合群的人里面没有你一.块级元素与行内元素的区别1.占据空间(1)块级元素:默认占据一行(默认宽度是父容器的100%),垂直方向排列(2)行内元素:在一条直线上排列(默认宽度与内容有关),水平方向排列2.嵌套规则(1)块级元素:可以包含块级元素和行内元素(2)行内元素:不能包含块级元素,只能包含文本或行内元素">
+<meta property="og:description" content="优秀的人，不是不合群，而是他们合群的人里面没有你一.引入CSS的几种方法1. 链接式link引入外部样式表123&amp;lt;head&amp;gt;	&amp;lt;link rel=&quot;stylesheet&quot; type=&quot;text&#x2F;css&quot; href=&quot;style.css&quot;&amp;gt;&amp;lt;&#x2F;head&amp;gt;2. 内嵌式  HTML提供了style标签以控制页面的显示样式，style元素位于head标签内部，type属">
 <meta property="og:locale" content="zh-CN">
-<meta property="og:updated_time" content="2019-11-21T15:45:51.717Z">
+<meta property="og:updated_time" content="2019-11-30T16:11:40.444Z">
 <meta name="twitter:card" content="summary">
 
-<link rel="canonical" href="https://chs6666.github.io/2019/11/18/%E5%9D%97%E7%BA%A7%E5%92%8C%E8%A1%8C%E5%86%85%E5%85%83%E7%B4%A0/">
+<link rel="canonical" href="https://chs6666.github.io/2019/11/21/%E4%BD%A0%E7%9C%9F%E7%9A%84%E7%90%86%E8%A7%A3-import%E5%92%8Clink%E5%BC%95%E5%85%A5%E6%A0%B7%E5%BC%8F%E7%9A%84%E5%8C%BA%E5%88%AB%E5%90%97/">
 
 
 <script id="page-configurations">
@@ -84,7 +84,7 @@
   };
 </script>
 
-  <title>块级和行内元素 | 菜菜~blog</title>
+  <title>你真的理解@import和link引入样式的区别吗 | 菜菜~blog</title>
   
 
 
@@ -220,7 +220,7 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block " lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="https://chs6666.github.io/2019/11/18/%E5%9D%97%E7%BA%A7%E5%92%8C%E8%A1%8C%E5%86%85%E5%85%83%E7%B4%A0/">
+    <link itemprop="mainEntityOfPage" href="https://chs6666.github.io/2019/11/21/%E4%BD%A0%E7%9C%9F%E7%9A%84%E7%90%86%E8%A7%A3-import%E5%92%8Clink%E5%BC%95%E5%85%A5%E6%A0%B7%E5%BC%8F%E7%9A%84%E5%8C%BA%E5%88%AB%E5%90%97/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/girl.jpeg">
@@ -233,7 +233,7 @@
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
-          块级和行内元素
+          你真的理解@import和link引入样式的区别吗
         </h1>
 
         <div class="post-meta">
@@ -243,14 +243,14 @@
               </span>
               <span class="post-meta-item-text">发表于</span>
 
-              <time title="创建时间：2019-11-18 23:24:20" itemprop="dateCreated datePublished" datetime="2019-11-18T23:24:20+08:00">2019-11-18</time>
+              <time title="创建时间：2019-11-21 23:02:39" itemprop="dateCreated datePublished" datetime="2019-11-21T23:02:39+08:00">2019-11-21</time>
             </span>
               <span class="post-meta-item">
                 <span class="post-meta-item-icon">
                   <i class="fa fa-calendar-check-o"></i>
                 </span>
                 <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2019-11-21 23:45:51" itemprop="dateModified" datetime="2019-11-21T23:45:51+08:00">2019-11-21</time>
+                <time title="修改时间：2019-12-01 00:11:40" itemprop="dateModified" datetime="2019-12-01T00:11:40+08:00">2019-12-01</time>
               </span>
             <span class="post-meta-item">
               <span class="post-meta-item-icon">
@@ -258,14 +258,14 @@
               </span>
               <span class="post-meta-item-text">分类于</span>
                 <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/HTML/" itemprop="url" rel="index">
-                    <span itemprop="name">HTML</span>
+                  <a href="/categories/CSS%E9%9D%A2%E8%AF%95/" itemprop="url" rel="index">
+                    <span itemprop="name">CSS面试</span>
                   </a>
                 </span>
                   ，
                 <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/HTML/CSS/" itemprop="url" rel="index">
-                    <span itemprop="name">CSS</span>
+                  <a href="/categories/CSS%E9%9D%A2%E8%AF%95/%E5%9F%BA%E7%A1%80/" itemprop="url" rel="index">
+                    <span itemprop="name">基础</span>
                   </a>
                 </span>
             </span>
@@ -276,7 +276,7 @@
                 <i class="fa fa-file-word-o"></i>
               </span>
                 <span class="post-meta-item-text">本文字数：</span>
-              <span>951</span>
+              <span>1.2k</span>
             </span>
             <span class="post-meta-item" title="阅读时长">
               <span class="post-meta-item-icon">
@@ -295,144 +295,24 @@
     <div class="post-body" itemprop="articleBody">
 
       
-        <blockquote class="blockquote-center">优秀的人，不是不合群，而是他们合群的人里面没有你</blockquote><h3 id="一-块级元素与行内元素的区别"><a href="#一-块级元素与行内元素的区别" class="headerlink" title="一.块级元素与行内元素的区别"></a>一.块级元素与行内元素的区别</h3><h4 id="1-占据空间"><a href="#1-占据空间" class="headerlink" title="1.占据空间"></a>1.占据空间</h4><p>(1)<font color="red">块级元素</font>:默认占据一行(默认宽度是父容器的100%),垂直方向排列<br>(2)<font color="SkyBlue">行内元素</font>:在一条直线上排列(默认宽度与内容有关),水平方向排列</p><h4 id="2-嵌套规则"><a href="#2-嵌套规则" class="headerlink" title="2.嵌套规则"></a>2.嵌套规则</h4><p>(1)<font color="red">块级元素</font>:可以包含块级元素和行内元素<br>(2)<font color="SkyBlue">行内元素</font>:不能包含块级元素,只能包含文本或行内元素</p><a id="more"></a> 
+        <blockquote class="blockquote-center">优秀的人，不是不合群，而是他们合群的人里面没有你</blockquote><h3 id="一-引入CSS的几种方法"><a href="#一-引入CSS的几种方法" class="headerlink" title="一.引入CSS的几种方法"></a>一.引入CSS的几种方法</h3><h4 id="1-链接式link引入外部样式表"><a href="#1-链接式link引入外部样式表" class="headerlink" title="1. 链接式link引入外部样式表"></a><font color="DarkOrange">1. 链接式link引入外部样式表</font></h4><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">head</span>&gt;</span></span><br><span class="line">	<span class="tag">&lt;<span class="name">link</span> <span class="attr">rel</span>=<span class="string">"stylesheet"</span> <span class="attr">type</span>=<span class="string">"text/css"</span> <span class="attr">href</span>=<span class="string">"style.css"</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">head</span>&gt;</span></span><br></pre></td></tr></table></figure><h4 id="2-内嵌式"><a href="#2-内嵌式" class="headerlink" title="2. 内嵌式"></a><font color="DarkOrange">2. 内嵌式</font></h4><p>  HTML提供了style标签以控制页面的显示样式，style元素位于head标签内部，type属性指定CSS代码的文档类型</p><a id="more"></a> 
+
+  
 
 
+  <figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line"> <span class="tag">&lt;<span class="name">style</span> <span class="attr">type</span>=<span class="string">"css/text"</span>&gt;</span></span><br><span class="line"><span class="css">	<span class="selector-class">.text</span>&#123;</span></span><br><span class="line">	font-size: 20px;</span><br><span class="line">	padding-left: o;</span><br><span class="line">	margin: 0 auto;</span><br><span class="line">    &#125; </span><br><span class="line"><span class="tag">&lt;/<span class="name">style</span>&gt;</span> </span><br><span class="line"><span class="tag">&lt;<span class="name">body</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">"text"</span>&gt;</span><span class="tag">&lt;/<span class="name">div</span>&gt;</span> </span><br><span class="line"><span class="tag">&lt;/<span class="name">body</span>&gt;</span></span><br></pre></td></tr></table></figure>
 
-<h4 id="3-盒模型"><a href="#3-盒模型" class="headerlink" title="3.盒模型"></a>3.盒模型</h4><p>(1)<font color="red">块级元素</font>:width和height,margin和padding可以设置<br>(2)<font color="SkyBlue">行内元素</font>:width和height设置无效,margin-top、margin-bottom和padding-top、padding-bottom设置无效</p>
-<h3 id="二-置换元素和非置换元素"><a href="#二-置换元素和非置换元素" class="headerlink" title="二.置换元素和非置换元素"></a>二.置换元素和非置换元素</h3><h4 id="1-置换元素"><a href="#1-置换元素" class="headerlink" title="1.置换元素"></a>1.置换元素</h4><p>置换元素:用来置换元素内容的部分不由文档内容直接表示,元素本身拥有固有尺寸(宽高)的元素(可以设置宽高)<br><strong><font color="LightPink">img、input、textarea、select、button</font></strong></p>
-<h4 id="2-非置换元素"><a href="#2-非置换元素" class="headerlink" title="2.非置换元素"></a>2.非置换元素</h4><p>元素的内容由浏览器在元素自身生成的框中显示</p>
-<h3 id="三-块级元素列举"><a href="#三-块级元素列举" class="headerlink" title="三.块级元素列举"></a>三.块级元素列举</h3><table style="width:350px;">
-    <tr>
-        <td>&lt;address&gt;</td>
-        <td>联系方式信息</td>
-    </tr>
-    <tr>
-        <td>&lt;article&gt;</td>
-        <td>文章内容</td>
-    </tr>
-    <tr>
-        <td>&lt;selection&gt;</td>
-        <td>页面区段</td>
-    </tr>
-    <tr>
-        <td>&lt;aside&gt;</td>
-        <td>侧边栏</td>
-    </tr>
-    <tr>
-        <td>&lt;header&gt;</td>
-        <td>表头</td>
-    </tr>
-    <tr>
-        <td>&lt;footer&gt;</td>
-        <td>页脚</td>
-    </tr>
-    <tr>
-        <td>&lt;video&gt;</td>
-        <td>视频</td>
-    </tr>
-    <tr>
-        <td>&lt;audio&gt;</td>
-        <td>音频</td>
-    </tr>
-    <tr>
-        <td>&lt;blockquote&gt;</td>
-        <td>块引用</td>
-    </tr>
-    <tr>
-        <td>&lt;canvas&gt;</td>
-        <td>绘制图形</td>
-    </tr>
-    <tr>
-        <td>&lt;h1&gt; - &lt;h6&gt;</td>
-        <td>标题1-6</td>
-    </tr>
-    <tr>
-        <td>&lt;p&gt;</td>
-        <td>段落</td>
-    </tr>
-    <tr>
-        <td>&lt;div&gt;</td>
-        <td>块级容器</td>
-    </tr>
-    <tr>
-        <td>&lt;ul&gt;</td>
-        <td>无序列表</td>
-    </tr>
-    <tr>
-        <td>&lt;ol&gt;</td>
-        <td>有序列表</td>
-    </tr>
-    <tr>
-        <td>&lt;li&gt;</td>
-        <td>列表条目</td>
-    </tr>
-    <tr>
-        <td>&lt;hr&gt;</td>
-        <td>水平分割线</td>
-    </tr>
-    <tr>
-        <td>&lt;form&gt;</td>
-        <td>表单</td>
-    </tr>
-    <tr>
-        <td>&lt;dl&gt;</td>
-        <td>描述列表元素</td>
-    </tr>
-    <tr>
-        <td>&lt;dt&gt;</td>
-        <td>描述列表定义一个术语/名称</td>
-    </tr>
-    <tr>
-        <td>&lt;dd&gt;</td>
-        <td>描述列表术语描述</td>
-    </tr>
-    <tr>
-        <td>&lt;form&gt;</td>
-        <td>表单</td>
-    </tr>
-    <tr>
-        <td>&lt;fieldset&gt;</td>
-        <td>表单元素分组</td>
-    </tr>
-    <tr>
-        <td>&lt;legend&gt;</td>
-        <td>fieldset元素定义标题</td>
-    </tr>
-    <tr>
-        <td>&lt;figure&gt;</td>
-        <td>可附标题内容元素</td>
-    </tr>
-    <tr>
-        <td>&lt;figcaption&gt;</td>
-        <td>figure标题</td>
-    </tr>
-    <tr>
-        <td>&lt;pre&gt;</td>
-        <td>预定义格式文本</td>
-    </tr>
-    <tr>
-        <td>&lt;hgroup&gt;</td>
-        <td>标题组</td>
-    </tr>
-    <tr>
-        <td>&lt;table&gt;</td>
-        <td>表格</td>
-    </tr>
+<p>  嵌入方式的 CSS 只对当前的网页有效。因为 CSS 代码是在 HTML 文件中，所以会使得代码比较集中，当我们写模板网页时这通常比较有利。因为查看模板代码的人可以一目了然地查看 HTML 结构和 CSS 样式。因为嵌入的 CSS 只对当前页面有效，所以当多个页面需要引入相同的 CSS 代码时，这样写会导致代码冗余，也不利于维护。</p>
+<h4 id="3-内联式"><a href="#3-内联式" class="headerlink" title="3. 内联式"></a><font color="DarkOrange">3. 内联式</font></h4><p>  内联方式引入 CSS 代码会导致 HTML 代码变得冗长，且使得网页难以维护。</p>
+  <figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"background: red"</span>&gt;</span><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br></pre></td></tr></table></figure>
 
-</table>
-
-
-
-
-
-
-
-
-
-
-
-
+<p>  style定义的CSS样式直接嵌在HTML文档中，当项目中某个CSS样式出现问题(所谓的BUG)，开发者很难确定错误到底是出现在HTML中还是在CSS文件中，这会给开发者团队带来巨大的困扰。</p>
+<h4 id="4-导入式"><a href="#4-导入式" class="headerlink" title="4. 导入式"></a><font color="DarkOrange">4. 导入式</font></h4><p>  导入外部样式单的功能与链接外部样式单的功能差不多，只是语法上存在差别。导入外部样式单主要通过@import方式导入CSS文件，有两种导入方式 。</p>
+  <figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">style</span>&gt;</span></span><br><span class="line"><span class="css"> 	@<span class="keyword">import</span> url(style.css);</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">style</span>&gt;</span></span><br></pre></td></tr></table></figure>
+<h3 id="二-link和-import区别"><a href="#二-link和-import区别" class="headerlink" title="二.link和@import区别"></a>二.link和@import区别</h3><h4 id="1-从属关系区别"><a href="#1-从属关系区别" class="headerlink" title="1.从属关系区别"></a>1.从属关系区别</h4><p>  (1)@import是css提供的语法规则,只有导入样式表作用<br>  (2)link是HTML提供的标签,不仅可以加载CSS文件，还可以定义RSS,rel等属性</p>
+<h4 id="2-加载顺序的差别"><a href="#2-加载顺序的差别" class="headerlink" title="2.加载顺序的差别"></a>2.加载顺序的差别</h4><p>  (1)当一个页面被加载的时候,link引用的CSS会同时被加载<br>  (2)当一个页面被加载的时候,@import引用的CSS会等到页面全部下载完再被加载,有时候浏览器@import加载CSS的页面开始会没有样式(就是闪烁),网速慢的时候会挺明显</p>
+<h4 id="3-兼容性差别"><a href="#3-兼容性差别" class="headerlink" title="3.兼容性差别"></a>3.兼容性差别</h4><p>  (1)@import是CSS2.1提出的,兼容IE5+<br>  (2)link无兼容性问题</p>
+<h4 id="4-DOM可控性区别"><a href="#4-DOM可控性区别" class="headerlink" title="4.DOM可控性区别"></a>4.DOM可控性区别</h4><p>  (1)link标签可以使用JS操作DOM去改变样式<br>  (2)@import不支持DOM操作</p>
 
     </div>
 
@@ -457,7 +337,7 @@
       <div class="popular-posts-title"><a href="/2019/11/23/css选择器/" rel="bookmark">css选择器</a></div>
     </li>
     <li class="popular-posts-item">
-      <div class="popular-posts-title"><a href="/2019/11/21/你真的理解-import和link引入样式的区别吗/" rel="bookmark">你真的理解@import和link引入样式的区别吗</a></div>
+      <div class="popular-posts-title"><a href="/2019/11/18/块级和行内元素/" rel="bookmark">块级和行内元素</a></div>
     </li>
   </ul>
 
@@ -466,7 +346,6 @@
           <div class="post-tags">
               <a href="/tags/CSS/" rel="tag"><i class="fa fa-tag"></i> CSS</a>
               <a href="/tags/%E5%9F%BA%E7%A1%80/" rel="tag"><i class="fa fa-tag"></i> 基础</a>
-              <a href="/tags/HTML/" rel="tag"><i class="fa fa-tag"></i> HTML</a>
           </div>
 
         
@@ -474,8 +353,8 @@
           <div class="post-nav">
             <div class="post-nav-next post-nav-item">
               
-                <a href="/2019/11/21/%E4%BD%A0%E7%9C%9F%E7%9A%84%E7%90%86%E8%A7%A3-import%E5%92%8Clink%E5%BC%95%E5%85%A5%E6%A0%B7%E5%BC%8F%E7%9A%84%E5%8C%BA%E5%88%AB%E5%90%97/" rel="prev" title="你真的理解@import和link引入样式的区别吗">
-                  <i class="fa fa-chevron-left"></i> 你真的理解@import和link引入样式的区别吗
+                <a href="/2019/11/23/css%E9%80%89%E6%8B%A9%E5%99%A8/" rel="prev" title="css选择器">
+                  <i class="fa fa-chevron-left"></i> css选择器
                 </a>
             </div>
 
@@ -483,8 +362,8 @@
 
             <div class="post-nav-prev post-nav-item">
               
-                <a href="/2019/11/17/%E5%89%8D%E7%AB%AF%E5%BC%80%E7%AF%87/" rel="next" title="前端开篇">
-                  前端开篇 <i class="fa fa-chevron-right"></i>
+                <a href="/2019/11/18/%E5%9D%97%E7%BA%A7%E5%92%8C%E8%A1%8C%E5%86%85%E5%85%83%E7%B4%A0/" rel="next" title="块级和行内元素">
+                  块级和行内元素 <i class="fa fa-chevron-right"></i>
                 </a>
             </div>
           </div>
@@ -531,7 +410,7 @@
 
       <!--noindex-->
       <div class="post-toc-wrap sidebar-panel">
-          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#一-块级元素与行内元素的区别"><span class="nav-text">一.块级元素与行内元素的区别</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#1-占据空间"><span class="nav-text">1.占据空间</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#2-嵌套规则"><span class="nav-text">2.嵌套规则</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#3-盒模型"><span class="nav-text">3.盒模型</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#二-置换元素和非置换元素"><span class="nav-text">二.置换元素和非置换元素</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#1-置换元素"><span class="nav-text">1.置换元素</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#2-非置换元素"><span class="nav-text">2.非置换元素</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#三-块级元素列举"><span class="nav-text">三.块级元素列举</span></a></li></ol></div>
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#一-引入CSS的几种方法"><span class="nav-text">一.引入CSS的几种方法</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#1-链接式link引入外部样式表"><span class="nav-text">1. 链接式link引入外部样式表</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#2-内嵌式"><span class="nav-text">2. 内嵌式</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#3-内联式"><span class="nav-text">3. 内联式</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#4-导入式"><span class="nav-text">4. 导入式</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#二-link和-import区别"><span class="nav-text">二.link和@import区别</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#1-从属关系区别"><span class="nav-text">1.从属关系区别</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#2-加载顺序的差别"><span class="nav-text">2.加载顺序的差别</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#3-兼容性差别"><span class="nav-text">3.兼容性差别</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#4-DOM可控性区别"><span class="nav-text">4.DOM可控性区别</span></a></li></ol></li></ol></div>
       </div>
       <!--/noindex-->
 
@@ -692,9 +571,9 @@
       DISQUS.reset({
         reload: true,
         config: {page: {
-            url: "https://chs6666.github.io/2019/11/18/%E5%9D%97%E7%BA%A7%E5%92%8C%E8%A1%8C%E5%86%85%E5%85%83%E7%B4%A0/",
-            identifier: "2019/11/18/块级和行内元素/",
-            title: "块级和行内元素"
+            url: "https://chs6666.github.io/2019/11/21/%E4%BD%A0%E7%9C%9F%E7%9A%84%E7%90%86%E8%A7%A3-import%E5%92%8Clink%E5%BC%95%E5%85%A5%E6%A0%B7%E5%BC%8F%E7%9A%84%E5%8C%BA%E5%88%AB%E5%90%97/",
+            identifier: "2019/11/21/你真的理解-import和link引入样式的区别吗/",
+            title: "你真的理解@import和link引入样式的区别吗"
           }
         }
       });
