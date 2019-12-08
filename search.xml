@@ -270,9 +270,9 @@
         <category>CSS</category>
       </categories>
       <tags>
+        <tag>HTML</tag>
         <tag>CSS</tag>
         <tag>基础</tag>
-        <tag>HTML</tag>
       </tags>
   </entry>
   <entry>
@@ -293,18 +293,18 @@
     </tr>
     <tr>
         <td>6:20-7:30</td>
-        <td>英语单词</td>
+        <td>JS高级程序设计</td>
     </tr>
     <tr>
         <td>7:30-8:00</td>
         <td>吃早饭</td>
     </tr>
     <tr>
-        <td>8:00-11:30</td>
-        <td>前端书籍</td>
+        <td>8:00-12:00</td>
+        <td>JS高级程序设计</td>
     </tr>
     <tr>
-        <td>11:30-1:00</td>
+        <td>12:00-1:00</td>
         <td>煮饭、午休时间</td>
     </tr>
     <tr>
@@ -313,15 +313,11 @@
     </tr>
     <tr>
         <td>1:00-2:00</td>
-        <td>复习早上单词</td>
+        <td>JS高级程序设计</td>
     </tr>
     <tr>
-        <td>2:00-5:00</td>
-        <td>敲代码时间</td>
-    </tr>
-    <tr>
-        <td>5:00-6:00</td>
-        <td>跑步一小时</td>
+        <td>2:00-6:00</td>
+        <td>CSS权威指南</td>
     </tr>
     <tr>
         <td>晚上</td>
@@ -333,7 +329,7 @@
     </tr>
     <tr>
         <td>7:00-10:00</td>
-        <td>敲代码,看技术书混合</td>
+        <td>JS高级程序设计</td>
     </tr>
     <tr>
         <td>10:00-11:00</td>

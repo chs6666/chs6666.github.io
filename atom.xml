@@ -91,11 +91,11 @@
       <category term="CSS" scheme="https://chs6666.github.io/categories/HTML/CSS/"/>
     
     
+      <category term="HTML" scheme="https://chs6666.github.io/tags/HTML/"/>
+    
       <category term="CSS" scheme="https://chs6666.github.io/tags/CSS/"/>
     
       <category term="基础" scheme="https://chs6666.github.io/tags/%E5%9F%BA%E7%A1%80/"/>
-    
-      <category term="HTML" scheme="https://chs6666.github.io/tags/HTML/"/>
     
   </entry>
   
@@ -104,9 +104,9 @@
     <link href="https://chs6666.github.io/2019/11/17/%E5%89%8D%E7%AB%AF%E5%BC%80%E7%AF%87/"/>
     <id>https://chs6666.github.io/2019/11/17/%E5%89%8D%E7%AB%AF%E5%BC%80%E7%AF%87/</id>
     <published>2019-11-17T15:28:22.000Z</published>
-    <updated>2019-11-30T16:12:03.207Z</updated>
+    <updated>2019-12-08T00:18:11.068Z</updated>
     
-    <content type="html"><![CDATA[<blockquote class="blockquote-center">优秀的人，不是不合群，而是他们合群的人里面没有你</blockquote><h3 id="一-菜菜-个人时间表"><a href="#一-菜菜-个人时间表" class="headerlink" title="一.菜菜~个人时间表"></a>一.菜菜~个人时间表</h3><table>    <tr>        <td>时间</td>        <td>概要</td>    </tr>    <tr>        <td>上午</td>        <td></td>    </tr>    <tr>        <td>6:00-6:20</td>        <td>起床、洗漱</td>    </tr>    <tr>        <td>6:20-7:30</td>        <td>英语单词</td>    </tr>    <tr>        <td>7:30-8:00</td>        <td>吃早饭</td>    </tr>    <tr>        <td>8:00-11:30</td>        <td>前端书籍</td>    </tr>    <tr>        <td>11:30-1:00</td>        <td>煮饭、午休时间</td>    </tr>    <tr>        <td>下午</td>        <td></td>    </tr>    <tr>        <td>1:00-2:00</td>        <td>复习早上单词</td>    </tr>    <tr>        <td>2:00-5:00</td>        <td>敲代码时间</td>    </tr>    <tr>        <td>5:00-6:00</td>        <td>跑步一小时</td>    </tr>    <tr>        <td>晚上</td>        <td></td>    </tr>    <tr>        <td>6:00-7:00</td>        <td>吃晚饭</td>    </tr>    <tr>        <td>7:00-10:00</td>        <td>敲代码,看技术书混合</td>    </tr>    <tr>        <td>10:00-11:00</td>        <td>看课外书陶冶情操</td>    </tr>    <tr>        <td>11:00-12:00</td>        <td>英语单词</td>    </tr>    <tr>        <td>凌晨</td>        </tr>    <tr>        <td>12:00-1:00</td>        <td>复习当日知识点整理到博客上</td>    </tr>    <tr>        <td>1:00-2:00</td>        <td>看技术书</td>    </tr></table><a id="more"></a> <h3 id="二-目标标准"><a href="#二-目标标准" class="headerlink" title="二.目标标准"></a>二.目标标准</h3><ul><li>1.每天6:00起床</li><li>2.每天起床先定日计划</li><li>3.自习期间打起十足的精神,一门投入到自习中</li><li>4.复习需要动脑子</li><li>5.技术提升靠的是敲代码而不是看代码</li><li>6.当日事当日毕</li><li>7.提高效率做事(不会的问题先自己想想思路,不会去goole,若再不会问大牛)</li><li>8.知识点先整理到本子上,晚上整理到博客里</li><li>9.每天以面试题为主复习基础</li><li>10.每天英语学习单词50个,背一篇英语文章</li><li>11.每天阅读学习一小时</li><li>12.每天锻炼一小时</li></ul>]]></content>
+    <content type="html"><![CDATA[<blockquote class="blockquote-center">优秀的人，不是不合群，而是他们合群的人里面没有你</blockquote><h3 id="一-菜菜-个人时间表"><a href="#一-菜菜-个人时间表" class="headerlink" title="一.菜菜~个人时间表"></a>一.菜菜~个人时间表</h3><table>    <tr>        <td>时间</td>        <td>概要</td>    </tr>    <tr>        <td>上午</td>        <td></td>    </tr>    <tr>        <td>6:00-6:20</td>        <td>起床、洗漱</td>    </tr>    <tr>        <td>6:20-7:30</td>        <td>JS高级程序设计</td>    </tr>    <tr>        <td>7:30-8:00</td>        <td>吃早饭</td>    </tr>    <tr>        <td>8:00-12:00</td>        <td>JS高级程序设计</td>    </tr>    <tr>        <td>12:00-1:00</td>        <td>煮饭、午休时间</td>    </tr>    <tr>        <td>下午</td>        <td></td>    </tr>    <tr>        <td>1:00-2:00</td>        <td>JS高级程序设计</td>    </tr>    <tr>        <td>2:00-6:00</td>        <td>CSS权威指南</td>    </tr>    <tr>        <td>晚上</td>        <td></td>    </tr>    <tr>        <td>6:00-7:00</td>        <td>吃晚饭</td>    </tr>    <tr>        <td>7:00-10:00</td>        <td>JS高级程序设计</td>    </tr>    <tr>        <td>10:00-11:00</td>        <td>看课外书陶冶情操</td>    </tr>    <tr>        <td>11:00-12:00</td>        <td>英语单词</td>    </tr>    <tr>        <td>凌晨</td>        </tr>    <tr>        <td>12:00-1:00</td>        <td>复习当日知识点整理到博客上</td>    </tr>    <tr>        <td>1:00-2:00</td>        <td>看技术书</td>    </tr></table><a id="more"></a> <h3 id="二-目标标准"><a href="#二-目标标准" class="headerlink" title="二.目标标准"></a>二.目标标准</h3><ul><li>1.每天6:00起床</li><li>2.每天起床先定日计划</li><li>3.自习期间打起十足的精神,一门投入到自习中</li><li>4.复习需要动脑子</li><li>5.技术提升靠的是敲代码而不是看代码</li><li>6.当日事当日毕</li><li>7.提高效率做事(不会的问题先自己想想思路,不会去goole,若再不会问大牛)</li><li>8.知识点先整理到本子上,晚上整理到博客里</li><li>9.每天以面试题为主复习基础</li><li>10.每天英语学习单词50个,背一篇英语文章</li><li>11.每天阅读学习一小时</li><li>12.每天锻炼一小时</li></ul>]]></content>
     
     <summary type="html">
     
@@ -125,18 +125,18 @@
     &lt;/tr&gt;
     &lt;tr&gt;
         &lt;td&gt;6:20-7:30&lt;/td&gt;
-        &lt;td&gt;英语单词&lt;/td&gt;
+        &lt;td&gt;JS高级程序设计&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
         &lt;td&gt;7:30-8:00&lt;/td&gt;
         &lt;td&gt;吃早饭&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-        &lt;td&gt;8:00-11:30&lt;/td&gt;
-        &lt;td&gt;前端书籍&lt;/td&gt;
+        &lt;td&gt;8:00-12:00&lt;/td&gt;
+        &lt;td&gt;JS高级程序设计&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-        &lt;td&gt;11:30-1:00&lt;/td&gt;
+        &lt;td&gt;12:00-1:00&lt;/td&gt;
         &lt;td&gt;煮饭、午休时间&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -145,15 +145,11 @@
     &lt;/tr&gt;
     &lt;tr&gt;
         &lt;td&gt;1:00-2:00&lt;/td&gt;
-        &lt;td&gt;复习早上单词&lt;/td&gt;
+        &lt;td&gt;JS高级程序设计&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-        &lt;td&gt;2:00-5:00&lt;/td&gt;
-        &lt;td&gt;敲代码时间&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;5:00-6:00&lt;/td&gt;
-        &lt;td&gt;跑步一小时&lt;/td&gt;
+        &lt;td&gt;2:00-6:00&lt;/td&gt;
+        &lt;td&gt;CSS权威指南&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
         &lt;td&gt;晚上&lt;/td&gt;
@@ -165,7 +161,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
         &lt;td&gt;7:00-10:00&lt;/td&gt;
-        &lt;td&gt;敲代码,看技术书混合&lt;/td&gt;
+        &lt;td&gt;JS高级程序设计&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
         &lt;td&gt;10:00-11:00&lt;/td&gt;
