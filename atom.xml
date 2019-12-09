@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://chs6666.github.io/"/>
-  <updated>2019-11-30T17:02:35.465Z</updated>
+  <updated>2019-12-09T06:32:37.361Z</updated>
   <id>https://chs6666.github.io/</id>
   
   <author>
@@ -17,11 +17,78 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>12.9~计划表</title>
+    <link href="https://chs6666.github.io/2019/12/09/12.9%E8%AE%A1%E5%88%92%E8%A1%A8/"/>
+    <id>https://chs6666.github.io/2019/12/09/12.9%E8%AE%A1%E5%88%92%E8%A1%A8/</id>
+    <published>2019-12-09T01:04:12.000Z</published>
+    <updated>2019-12-09T06:32:37.361Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote class="blockquote-center">优秀的人，不是不合群，而是他们合群的人里面没有你</blockquote><h3 id="一-菜菜-个人时间表"><a href="#一-菜菜-个人时间表" class="headerlink" title="一.菜菜~个人时间表"></a>一.菜菜~个人时间表</h3><table>    <tr>        <td>时间</td>        <td>概要</td>    </tr>    <tr>        <td>上午</td>        <td></td>    </tr>    <tr>        <td>12:00-1:00</td>        <td>吃午饭</td>    </tr>    <tr>        <td>下午</td>        <td></td>    </tr>    <tr>        <td>2:30-6:00</td>        <td>JS高级程序设计</td>    </tr>    <tr>        <td>晚上</td>        <td></td>    </tr>    <tr>        <td>6:00-7:00</td>        <td>吃晚饭</td>    </tr>    <tr>        <td>7:00-10:00</td>        <td>JS高级程序设计</td>    </tr>    <tr>        <td>10:00-12:00</td>        <td>CSS权威指南</td>    </tr>    <tr>        <td>凌晨</td>        </tr>    <tr>        <td>12:00-2:00</td>        <td>整理博客笔记</td>    </tr></table><a id="more"></a><h3 id="二-目标标准"><a href="#二-目标标准" class="headerlink" title="二.目标标准"></a>二.目标标准</h3><ul><li>1.自习期间打起十足的精神,一门投入到自习中</li><li>2.复习需要动脑子</li><li>3.技术提升靠的是敲代码而不是看代码</li><li>4.当日事当日毕</li><li>5.提高效率做事(不会的问题先自己想想思路,不会去goole,若再不会问大牛)</li><li>6.知识点先整理到本子上,晚上整理到博客里</li><li>7.每天以面试题为主复习基础</li><li>8.每天英语学习单词50个,背一篇英语文章</li><li>9.每天阅读学习一小时</li><li>10.每天锻炼一小时</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;优秀的人，不是不合群，而是他们合群的人里面没有你&lt;/blockquote&gt;&lt;h3 id=&quot;一-菜菜-个人时间表&quot;&gt;&lt;a href=&quot;#一-菜菜-个人时间表&quot; class=&quot;headerlink&quot; title=&quot;一.菜菜~个人时间表&quot;&gt;&lt;/a&gt;一.菜菜~个人时间表&lt;/h3&gt;&lt;table&gt;
+    &lt;tr&gt;
+        &lt;td&gt;时间&lt;/td&gt;
+        &lt;td&gt;概要&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;上午&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;12:00-1:00&lt;/td&gt;
+        &lt;td&gt;吃午饭&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;下午&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;2:30-6:00&lt;/td&gt;
+        &lt;td&gt;JS高级程序设计&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;晚上&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;6:00-7:00&lt;/td&gt;
+        &lt;td&gt;吃晚饭&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;7:00-10:00&lt;/td&gt;
+        &lt;td&gt;JS高级程序设计&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;10:00-12:00&lt;/td&gt;
+        &lt;td&gt;CSS权威指南&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;凌晨&lt;/td&gt;    
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;12:00-2:00&lt;/td&gt;
+        &lt;td&gt;整理博客笔记&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+    
+    </summary>
+    
+    
+      <category term="日计划表" scheme="https://chs6666.github.io/categories/%E6%97%A5%E8%AE%A1%E5%88%92%E8%A1%A8/"/>
+    
+    
+      <category term="日常计划表" scheme="https://chs6666.github.io/tags/%E6%97%A5%E5%B8%B8%E8%AE%A1%E5%88%92%E8%A1%A8/"/>
+    
+  </entry>
+  
+  <entry>
     <title>css选择器</title>
     <link href="https://chs6666.github.io/2019/11/23/css%E9%80%89%E6%8B%A9%E5%99%A8/"/>
     <id>https://chs6666.github.io/2019/11/23/css%E9%80%89%E6%8B%A9%E5%99%A8/</id>
     <published>2019-11-23T12:42:45.000Z</published>
-    <updated>2019-11-30T17:02:35.465Z</updated>
+    <updated>2019-12-08T03:07:00.161Z</updated>
     
     <content type="html"><![CDATA[<blockquote class="blockquote-center">优秀的人，不是不合群，而是他们合群的人里面没有你</blockquote><h3 id="一-基本选择符"><a href="#一-基本选择符" class="headerlink" title="一.基本选择符"></a>一.基本选择符</h3><h4 id="1-元素选择符"><a href="#1-元素选择符" class="headerlink" title="1.元素选择符"></a>1.元素选择符</h4><p>element{ 样式声明 } :选择所有此元素</p><h4 id="2-群组选择符"><a href="#2-群组选择符" class="headerlink" title="2.群组选择符"></a>2.群组选择符</h4><p>element1 , element2 { 样式声明 }</p><h4 id="3-class类选择器"><a href="#3-class类选择器" class="headerlink" title="3.class类选择器"></a>3.class类选择器</h4><p>(1)单个类<br>.类名 {样式声明} 选择所有class=”类名”的元素<br>元素选择符 .类名{样式声明} 具体哪个元素选择符的具体类</p><a id="more"></a><p>(2)多个类</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">&lt;!DOCTYPE html&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">head</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">style</span>&gt;</span></span><br><span class="line"><span class="css"><span class="selector-class">.urgent</span> <span class="selector-class">.warning</span>&#123;</span></span><br><span class="line"><span class="css"><span class="selector-tag">font-weight</span><span class="selector-pseudo">:bold</span>;</span></span><br><span class="line">&#125;</span><br><span class="line"><span class="tag">&lt;/<span class="name">style</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">head</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">body</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">p</span> <span class="attr">class</span>=<span class="string">"urgent warning"</span>&gt;</span><span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">body</span>&gt;</span></span><br></pre></td></tr></table></figure><h4 id="4-id选择器"><a href="#4-id选择器" class="headerlink" title="4.id选择器"></a>4.id选择器</h4><p> #id属性 选择所有id=”id属性”的元素<br> 在HTML文档中,一个ID只能使用一次</p><h4 id="5-通配选择器"><a href="#5-通配选择器" class="headerlink" title="5.通配选择器"></a>5.通配选择器</h4><p>   *通配选择符:匹配任意类型的HTML元素</p><h4 id="6-属性选择符"><a href="#6-属性选择符" class="headerlink" title="6.属性选择符"></a>6.属性选择符</h4><p>(1) 简单属性选择符<br>    [attr]选择所有带有attr属性的元素</p><p>(2) 精确属性选择符</p><p>   [attr=value]选择表示属性名称为attr并且其值为value的元素</p><p>(3) 根据部分属性值</p><p>① [foo |=’bar’] 选择的元素有foo属性,其值以bar和一个英文破折号开头,或者bar本身</p><figure class="highlight xquery"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">*<span class="built_in">[lang</span>|=<span class="string">'en'</span>]&#123;color:white&#125;</span><br><span class="line"></span><br><span class="line"><span class="xml"><span class="tag">&lt;<span class="name">h1</span> <span class="attr">lang</span>=<span class="string">"en"</span>&gt;</span><span class="tag">&lt;/<span class="name">h1</span>&gt;</span></span></span><br><span class="line"><span class="xml"><span class="tag">&lt;<span class="name">h1</span> <span class="attr">lang</span>=<span class="string">"en-us"</span>&gt;</span><span class="tag">&lt;/<span class="name">h1</span>&gt;</span></span></span><br><span class="line"><span class="xml"><span class="tag">&lt;<span class="name">h1</span> <span class="attr">lang</span>=<span class="string">"en-au"</span>&gt;</span><span class="tag">&lt;/<span class="name">h1</span>&gt;</span></span></span><br></pre></td></tr></table></figure><p>②  [foo~= ‘bar’]匹配以空格分隔的一组词的一个<br>     [foo~= ‘bar’] 选择的元素有foo属性,其值包含bar这个词的一组词</p><p>   p.warning等价于p[class~=’waring’]</p><figure class="highlight angelscript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">p[<span class="keyword">class</span>~='<span class="symbol">waring</span>']&#123;font-weight:bold&#125;</span><br><span class="line">&lt;p <span class="keyword">class</span>="<span class="symbol">urgent</span> <span class="symbol">warining</span>"&gt;<span class="symbol">Hello</span>&lt;/<span class="symbol">p</span>&gt;</span><br></pre></td></tr></table></figure><p>③ [foo*=’bar’]选择的元素有foo属性,且其值包含子串bar</p><figure class="highlight angelscript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">span[<span class="keyword">class</span>*='<span class="symbol">cloud</span>']&#123;font-style:italic&#125;</span><br><span class="line"></span><br><span class="line">&lt;span <span class="keyword">class</span>="<span class="symbol">cloudy</span> <span class="symbol">barren</span>"&gt;<span class="symbol">va</span>&lt;/<span class="symbol">span</span>&gt;</span><br></pre></td></tr></table></figure><p>④ 匹配属性值开头的子串<br>[attr^=value] :选择属性名称元素attr,其值由前缀值开头<br>a[src^=’https’]:选择每一个src属性的值以’https’开头的元素</p><p>⑤ 匹配属性值结尾的子串<br>[attr$=’val’]<br>a[src$=’.pdf’] 选择每一个src属性的值以.pdf结尾的元素</p><p>⑥ 不区分大小写的标识符<br>a[href$=’.PDF’ i ]</p><h3 id="二-根据文档结构选择"><a href="#二-根据文档结构选择" class="headerlink" title="二.根据文档结构选择"></a>二.根据文档结构选择</h3><h4 id="1-后代选择器-元素1-元素2-样式声明"><a href="#1-后代选择器-元素1-元素2-样式声明" class="headerlink" title="1. 后代选择器(元素1 元素2{ 样式声明 })"></a>1. 后代选择器(元素1 元素2{ 样式声明 })</h4><p>当使用后代选择符连接两个元素时使得该选择器可以只匹配那些由第一个元素作为祖先元素的所有第二个元素(后代元素)</p><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">div</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">span</span>&gt;</span>span1</span><br><span class="line"><span class="tag">&lt;<span class="name">span</span>&gt;</span>span2<span class="tag">&lt;/<span class="name">span</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">span</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">span</span>&gt;</span>span3<span class="tag">&lt;/<span class="name">span</span>&gt;</span></span><br></pre></td></tr></table></figure><h4 id="2-子选择器-element1-gt-element2-样式声明"><a href="#2-子选择器-element1-gt-element2-样式声明" class="headerlink" title="2. 子选择器(element1&gt;element2{ 样式声明 })"></a>2. 子选择器(element1&gt;element2{ 样式声明 })</h4><figure class="highlight objectivec"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">h1 &gt; <span class="keyword">strong</span>:选择的<span class="keyword">strong</span>元素是h1元素的直接子代</span><br></pre></td></tr></table></figure><h4 id="3-选择紧邻同胞元素-element1-element2-样式声明"><a href="#3-选择紧邻同胞元素-element1-element2-样式声明" class="headerlink" title="3. 选择紧邻同胞元素(element1+element2{ 样式声明 })"></a>3. 选择紧邻同胞元素(element1+element2{ 样式声明 })</h4><p>介于两个选择器之间,第二个元素紧跟在第一个元素,两个元素同属于一个父元素的子元素</p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-tag">h1</span>+<span class="selector-tag">p</span>&#123;<span class="attribute">margin-top</span>:<span class="number">0</span>&#125; 选择<span class="selector-tag">p</span>元素紧跟在<span class="selector-tag">h1</span>元素后面,而且二者同属于一个父元素</span><br></pre></td></tr></table></figure><h4 id="4-通用兄弟选择器-element1-element2-样式声明"><a href="#4-通用兄弟选择器-element1-element2-样式声明" class="headerlink" title="4. 通用兄弟选择器(element1~element2{ 样式声明 })"></a>4. 通用兄弟选择器(element1~element2{ 样式声明 })</h4><p>匹配出现在element1后面的element2，element1和element2这两种元素必须具有相同的父元素,但element2不必紧跟在element1后面</p><h3 id="三-伪类选择符"><a href="#三-伪类选择符" class="headerlink" title="三.伪类选择符"></a>三.伪类选择符</h3><h4 id="1-拼接伪类"><a href="#1-拼接伪类" class="headerlink" title="1. 拼接伪类"></a>1. 拼接伪类</h4><p>css允许把伪类拼接(串联)在一起<br>a:link:hover{color:red}<br>a:visited:hover{color:maroon}</p><h4 id="2-结构伪类"><a href="#2-结构伪类" class="headerlink" title="2. 结构伪类"></a>2. 结构伪类</h4><p>(1) :root 选择根元素<br>:root伪类选择文档的根元素,在html文档根元素是html</p><p>(2) :empty 选择空元素<br>    :empty伪类代表没有子元素的元素(空格、制表符都算文本节点,注释不算文本节点)</p><p>(3)选择唯一的子代</p><p>① :only-child匹配没有兄弟元素的元素(匹配属于元素中唯一子元素的元素,列出的元素不一定是父子关系)</p><pre><code>:only-child 等效 :first-child:last-child 或 :nth-child(1):nth-last-child(1)    </code></pre><p>② :only-of-type代表任意一个元素,这个元素没有其他相同类型的兄弟元素</p><p>element:only-of-type{css声明}<br>:only-of-type指代的是元素,而不是其他任何东西(比如class属性)</p><figure class="highlight angelscript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">p.unique:only-of-type&#123;color:red&#125;</span><br><span class="line"></span><br><span class="line">&lt;div&gt;</span><br><span class="line">&lt;p <span class="keyword">class</span>="<span class="symbol">unique</span>"&gt;<span class="symbol">Hello</span>&lt;/<span class="symbol">p</span>&gt;</span><br><span class="line">&lt;<span class="symbol">p</span>&gt;<span class="symbol">hello</span>&lt;/<span class="symbol">p</span>&gt;</span><br><span class="line">&lt;/<span class="symbol">div</span>&gt;</span><br><span class="line"></span><br><span class="line">两个<span class="symbol">p</span>标签都不会选中</span><br></pre></td></tr></table></figure><p>(4)选择第一个和最后一个子代<br>① :first-child选择一个元素的第一个子元素</p><p>② :last-child选择父元素的最后一个子元素</p><p>(5)选择第一个和最后一个某种元素<br>① :first-of-type匹配元素其父级是特定类型的第一个子元素</p><p>② :last-of-type匹配元素其父级是特定类型的最后一个子元素</p><p>(6)选择每第n个子元素</p><p>① :nth-child(n)选择器匹配父元素中的第n个子元素<br>:nth-child(1)等价first-child</p><p>② :nth-last-child(n)从兄弟节点中从后往前匹配处于某些位置的元素</p><p>(7)选择每第n个某种元素</p><p>① :nth-of-type(n) 匹配同类型中的第n个同级兄弟元素</p><p>② :nth-last-of-type(n) 匹配同类型中倒数第n个同级兄弟元素</p><h4 id="3-动态伪类"><a href="#3-动态伪类" class="headerlink" title="3. 动态伪类"></a>3. 动态伪类</h4><p>(1) :link指代用作超链接尚未访问的地址(未访问)</p><p>(2) :visited指代已访问的超链接(已访问)</p><p>(3) :focus指代当前获得输入焦点的元素</p><p>(4) :hover指代鼠标指针位置其上的元素,鼠标悬停在a上</p><p>(5) :active 用户激活的元素</p><h4 id="4-UI状态伪类"><a href="#4-UI状态伪类" class="headerlink" title="4. UI状态伪类"></a>4. UI状态伪类</h4><p>(1) :enabled 指代接受输入的元素</p><p>(2) :disabled 指代禁用的元素</p><p>(3) :checked 指代默认选中的单选按钮(radio)、复选框(checkbox)、选项(select option)</p><p>(4) :default 指代默认选中的单选框,复选框或选项</p><p>(5) :valid 指代满足所有数据有效性语义的输入框</p><p>(6) :invalid 指代不满足所有数据有效性语义的输入框</p><p>(7) :in-range 指代输入的值在最小值和最大值之间的输入框</p><p>(8) :out-of-range 指代输入的值小于最小值和大于最大值的输入框</p><p>(9) :required 指代必须输入的输入框</p><p>(10) :optional 指代无需一定输入的输入框</p><p>(11) :read-write 指代可由用户编辑的输入框</p><p>(12) :read-only 指代只读的输入框</p><h4 id="5-否定状态伪类"><a href="#5-否定状态伪类" class="headerlink" title="5. 否定状态伪类"></a>5. 否定状态伪类</h4><p>:not()匹配不符合一组选择器的元素</p><h4 id="6-lang伪类"><a href="#6-lang伪类" class="headerlink" title="6. :lang伪类"></a>6. :lang伪类</h4><p>:lang()基于元素语言来匹配页面元素</p><h3 id="四-伪类选择符-所有伪元素只能出现在选择符的最后"><a href="#四-伪类选择符-所有伪元素只能出现在选择符的最后" class="headerlink" title="四.伪类选择符(所有伪元素只能出现在选择符的最后)"></a>四.伪类选择符(所有伪元素只能出现在选择符的最后)</h3><h4 id="1-装饰首字母"><a href="#1-装饰首字母" class="headerlink" title="1. 装饰首字母"></a>1. 装饰首字母</h4><p>::first-letter选中某非行内元素第一个字母,或开头的标点符号</p><h4 id="2-装饰首行"><a href="#2-装饰首行" class="headerlink" title="2. 装饰首行"></a>2. 装饰首行</h4><p>::first-line用于装饰元素的首行文本</p><h4 id="3-装饰-或创建-前置和后置内容元素"><a href="#3-装饰-或创建-前置和后置内容元素" class="headerlink" title="3. 装饰(或创建)前置和后置内容元素"></a>3. 装饰(或创建)前置和后置内容元素</h4><p>::after向后添加装饰内容<br>::before向前添加装饰内容</p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-pseudo">::before</span>&#123;<span class="attribute">content</span>:<span class="string">'@'</span>&#125;</span><br></pre></td></tr></table></figure><h4 id="4-selection选择被用户高亮的部分-比如使用鼠标选中部分"><a href="#4-selection选择被用户高亮的部分-比如使用鼠标选中部分" class="headerlink" title="4. ::selection选择被用户高亮的部分(比如使用鼠标选中部分)"></a>4. ::selection选择被用户高亮的部分(比如使用鼠标选中部分)</h4><h4 id="5-placeholder选择一个表单元素的占位文本"><a href="#5-placeholder选择一个表单元素的占位文本" class="headerlink" title="5. ::placeholder选择一个表单元素的占位文本"></a>5. ::placeholder选择一个表单元素的占位文本</h4>]]></content>
     
@@ -34,12 +101,8 @@
     
       <category term="CSS面试" scheme="https://chs6666.github.io/categories/CSS%E9%9D%A2%E8%AF%95/"/>
     
-      <category term="基础" scheme="https://chs6666.github.io/categories/CSS%E9%9D%A2%E8%AF%95/%E5%9F%BA%E7%A1%80/"/>
     
-    
-      <category term="CSS" scheme="https://chs6666.github.io/tags/CSS/"/>
-    
-      <category term="基础" scheme="https://chs6666.github.io/tags/%E5%9F%BA%E7%A1%80/"/>
+      <category term="CSS基础" scheme="https://chs6666.github.io/tags/CSS%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
@@ -48,7 +111,7 @@
     <link href="https://chs6666.github.io/2019/11/21/%E4%BD%A0%E7%9C%9F%E7%9A%84%E7%90%86%E8%A7%A3-import%E5%92%8Clink%E5%BC%95%E5%85%A5%E6%A0%B7%E5%BC%8F%E7%9A%84%E5%8C%BA%E5%88%AB%E5%90%97/"/>
     <id>https://chs6666.github.io/2019/11/21/%E4%BD%A0%E7%9C%9F%E7%9A%84%E7%90%86%E8%A7%A3-import%E5%92%8Clink%E5%BC%95%E5%85%A5%E6%A0%B7%E5%BC%8F%E7%9A%84%E5%8C%BA%E5%88%AB%E5%90%97/</id>
     <published>2019-11-21T15:02:39.000Z</published>
-    <updated>2019-11-30T16:11:40.444Z</updated>
+    <updated>2019-12-08T03:07:05.802Z</updated>
     
     <content type="html"><![CDATA[<blockquote class="blockquote-center">优秀的人，不是不合群，而是他们合群的人里面没有你</blockquote><h3 id="一-引入CSS的几种方法"><a href="#一-引入CSS的几种方法" class="headerlink" title="一.引入CSS的几种方法"></a>一.引入CSS的几种方法</h3><h4 id="1-链接式link引入外部样式表"><a href="#1-链接式link引入外部样式表" class="headerlink" title="1. 链接式link引入外部样式表"></a><font color="DarkOrange">1. 链接式link引入外部样式表</font></h4><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">head</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">link</span> <span class="attr">rel</span>=<span class="string">"stylesheet"</span> <span class="attr">type</span>=<span class="string">"text/css"</span> <span class="attr">href</span>=<span class="string">"style.css"</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">head</span>&gt;</span></span><br></pre></td></tr></table></figure><h4 id="2-内嵌式"><a href="#2-内嵌式" class="headerlink" title="2. 内嵌式"></a><font color="DarkOrange">2. 内嵌式</font></h4><p>  HTML提供了style标签以控制页面的显示样式，style元素位于head标签内部，type属性指定CSS代码的文档类型</p><a id="more"></a>     <figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line"> <span class="tag">&lt;<span class="name">style</span> <span class="attr">type</span>=<span class="string">"css/text"</span>&gt;</span></span><br><span class="line"><span class="css"><span class="selector-class">.text</span>&#123;</span></span><br><span class="line">font-size: 20px;</span><br><span class="line">padding-left: o;</span><br><span class="line">margin: 0 auto;</span><br><span class="line">    &#125; </span><br><span class="line"><span class="tag">&lt;/<span class="name">style</span>&gt;</span> </span><br><span class="line"><span class="tag">&lt;<span class="name">body</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">"text"</span>&gt;</span><span class="tag">&lt;/<span class="name">div</span>&gt;</span> </span><br><span class="line"><span class="tag">&lt;/<span class="name">body</span>&gt;</span></span><br></pre></td></tr></table></figure><p>  嵌入方式的 CSS 只对当前的网页有效。因为 CSS 代码是在 HTML 文件中，所以会使得代码比较集中，当我们写模板网页时这通常比较有利。因为查看模板代码的人可以一目了然地查看 HTML 结构和 CSS 样式。因为嵌入的 CSS 只对当前页面有效，所以当多个页面需要引入相同的 CSS 代码时，这样写会导致代码冗余，也不利于维护。</p><h4 id="3-内联式"><a href="#3-内联式" class="headerlink" title="3. 内联式"></a><font color="DarkOrange">3. 内联式</font></h4><p>  内联方式引入 CSS 代码会导致 HTML 代码变得冗长，且使得网页难以维护。</p>  <figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">"background: red"</span>&gt;</span><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br></pre></td></tr></table></figure><p>  style定义的CSS样式直接嵌在HTML文档中，当项目中某个CSS样式出现问题(所谓的BUG)，开发者很难确定错误到底是出现在HTML中还是在CSS文件中，这会给开发者团队带来巨大的困扰。</p><h4 id="4-导入式"><a href="#4-导入式" class="headerlink" title="4. 导入式"></a><font color="DarkOrange">4. 导入式</font></h4><p>  导入外部样式单的功能与链接外部样式单的功能差不多，只是语法上存在差别。导入外部样式单主要通过@import方式导入CSS文件，有两种导入方式 。</p>  <figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">style</span>&gt;</span></span><br><span class="line"><span class="css"> @<span class="keyword">import</span> url(style.css);</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">style</span>&gt;</span></span><br></pre></td></tr></table></figure><h3 id="二-link和-import区别"><a href="#二-link和-import区别" class="headerlink" title="二.link和@import区别"></a>二.link和@import区别</h3><h4 id="1-从属关系区别"><a href="#1-从属关系区别" class="headerlink" title="1.从属关系区别"></a>1.从属关系区别</h4><p>  (1)@import是css提供的语法规则,只有导入样式表作用<br>  (2)link是HTML提供的标签,不仅可以加载CSS文件，还可以定义RSS,rel等属性</p><h4 id="2-加载顺序的差别"><a href="#2-加载顺序的差别" class="headerlink" title="2.加载顺序的差别"></a>2.加载顺序的差别</h4><p>  (1)当一个页面被加载的时候,link引用的CSS会同时被加载<br>  (2)当一个页面被加载的时候,@import引用的CSS会等到页面全部下载完再被加载,有时候浏览器@import加载CSS的页面开始会没有样式(就是闪烁),网速慢的时候会挺明显</p><h4 id="3-兼容性差别"><a href="#3-兼容性差别" class="headerlink" title="3.兼容性差别"></a>3.兼容性差别</h4><p>  (1)@import是CSS2.1提出的,兼容IE5+<br>  (2)link无兼容性问题</p><h4 id="4-DOM可控性区别"><a href="#4-DOM可控性区别" class="headerlink" title="4.DOM可控性区别"></a>4.DOM可控性区别</h4><p>  (1)link标签可以使用JS操作DOM去改变样式<br>  (2)@import不支持DOM操作</p>]]></content>
     
@@ -61,12 +124,8 @@
     
       <category term="CSS面试" scheme="https://chs6666.github.io/categories/CSS%E9%9D%A2%E8%AF%95/"/>
     
-      <category term="基础" scheme="https://chs6666.github.io/categories/CSS%E9%9D%A2%E8%AF%95/%E5%9F%BA%E7%A1%80/"/>
     
-    
-      <category term="CSS" scheme="https://chs6666.github.io/tags/CSS/"/>
-    
-      <category term="基础" scheme="https://chs6666.github.io/tags/%E5%9F%BA%E7%A1%80/"/>
+      <category term="CSS基础" scheme="https://chs6666.github.io/tags/CSS%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
@@ -75,7 +134,7 @@
     <link href="https://chs6666.github.io/2019/11/18/%E5%9D%97%E7%BA%A7%E5%92%8C%E8%A1%8C%E5%86%85%E5%85%83%E7%B4%A0/"/>
     <id>https://chs6666.github.io/2019/11/18/%E5%9D%97%E7%BA%A7%E5%92%8C%E8%A1%8C%E5%86%85%E5%85%83%E7%B4%A0/</id>
     <published>2019-11-18T15:24:20.000Z</published>
-    <updated>2019-11-21T15:45:51.717Z</updated>
+    <updated>2019-12-08T03:08:46.463Z</updated>
     
     <content type="html"><![CDATA[<blockquote class="blockquote-center">优秀的人，不是不合群，而是他们合群的人里面没有你</blockquote><h3 id="一-块级元素与行内元素的区别"><a href="#一-块级元素与行内元素的区别" class="headerlink" title="一.块级元素与行内元素的区别"></a>一.块级元素与行内元素的区别</h3><h4 id="1-占据空间"><a href="#1-占据空间" class="headerlink" title="1.占据空间"></a>1.占据空间</h4><p>(1)<font color="red">块级元素</font>:默认占据一行(默认宽度是父容器的100%),垂直方向排列<br>(2)<font color="SkyBlue">行内元素</font>:在一条直线上排列(默认宽度与内容有关),水平方向排列</p><h4 id="2-嵌套规则"><a href="#2-嵌套规则" class="headerlink" title="2.嵌套规则"></a>2.嵌套规则</h4><p>(1)<font color="red">块级元素</font>:可以包含块级元素和行内元素<br>(2)<font color="SkyBlue">行内元素</font>:不能包含块级元素,只能包含文本或行内元素</p><a id="more"></a> <h4 id="3-盒模型"><a href="#3-盒模型" class="headerlink" title="3.盒模型"></a>3.盒模型</h4><p>(1)<font color="red">块级元素</font>:width和height,margin和padding可以设置<br>(2)<font color="SkyBlue">行内元素</font>:width和height设置无效,margin-top、margin-bottom和padding-top、padding-bottom设置无效</p><h3 id="二-置换元素和非置换元素"><a href="#二-置换元素和非置换元素" class="headerlink" title="二.置换元素和非置换元素"></a>二.置换元素和非置换元素</h3><h4 id="1-置换元素"><a href="#1-置换元素" class="headerlink" title="1.置换元素"></a>1.置换元素</h4><p>置换元素:用来置换元素内容的部分不由文档内容直接表示,元素本身拥有固有尺寸(宽高)的元素(可以设置宽高)<br><strong><font color="LightPink">img、input、textarea、select、button</font></strong></p><h4 id="2-非置换元素"><a href="#2-非置换元素" class="headerlink" title="2.非置换元素"></a>2.非置换元素</h4><p>元素的内容由浏览器在元素自身生成的框中显示</p><h3 id="三-块级元素列举"><a href="#三-块级元素列举" class="headerlink" title="三.块级元素列举"></a>三.块级元素列举</h3><table style="width:350px;">    <tr>        <td>&lt;address&gt;</td>        <td>联系方式信息</td>    </tr>    <tr>        <td>&lt;article&gt;</td>        <td>文章内容</td>    </tr>    <tr>        <td>&lt;selection&gt;</td>        <td>页面区段</td>    </tr>    <tr>        <td>&lt;aside&gt;</td>        <td>侧边栏</td>    </tr>    <tr>        <td>&lt;header&gt;</td>        <td>表头</td>    </tr>    <tr>        <td>&lt;footer&gt;</td>        <td>页脚</td>    </tr>    <tr>        <td>&lt;video&gt;</td>        <td>视频</td>    </tr>    <tr>        <td>&lt;audio&gt;</td>        <td>音频</td>    </tr>    <tr>        <td>&lt;blockquote&gt;</td>        <td>块引用</td>    </tr>    <tr>        <td>&lt;canvas&gt;</td>        <td>绘制图形</td>    </tr>    <tr>        <td>&lt;h1&gt; - &lt;h6&gt;</td>        <td>标题1-6</td>    </tr>    <tr>        <td>&lt;p&gt;</td>        <td>段落</td>    </tr>    <tr>        <td>&lt;div&gt;</td>        <td>块级容器</td>    </tr>    <tr>        <td>&lt;ul&gt;</td>        <td>无序列表</td>    </tr>    <tr>        <td>&lt;ol&gt;</td>        <td>有序列表</td>    </tr>    <tr>        <td>&lt;li&gt;</td>        <td>列表条目</td>    </tr>    <tr>        <td>&lt;hr&gt;</td>        <td>水平分割线</td>    </tr>    <tr>        <td>&lt;form&gt;</td>        <td>表单</td>    </tr>    <tr>        <td>&lt;dl&gt;</td>        <td>描述列表元素</td>    </tr>    <tr>        <td>&lt;dt&gt;</td>        <td>描述列表定义一个术语/名称</td>    </tr>    <tr>        <td>&lt;dd&gt;</td>        <td>描述列表术语描述</td>    </tr>    <tr>        <td>&lt;form&gt;</td>        <td>表单</td>    </tr>    <tr>        <td>&lt;fieldset&gt;</td>        <td>表单元素分组</td>    </tr>    <tr>        <td>&lt;legend&gt;</td>        <td>fieldset元素定义标题</td>    </tr>    <tr>        <td>&lt;figure&gt;</td>        <td>可附标题内容元素</td>    </tr>    <tr>        <td>&lt;figcaption&gt;</td>        <td>figure标题</td>    </tr>    <tr>        <td>&lt;pre&gt;</td>        <td>预定义格式文本</td>    </tr>    <tr>        <td>&lt;hgroup&gt;</td>        <td>标题组</td>    </tr>    <tr>        <td>&lt;table&gt;</td>        <td>表格</td>    </tr></table>]]></content>
     
@@ -86,16 +145,10 @@
     </summary>
     
     
-      <category term="HTML" scheme="https://chs6666.github.io/categories/HTML/"/>
-    
-      <category term="CSS" scheme="https://chs6666.github.io/categories/HTML/CSS/"/>
+      <category term="HTML基础" scheme="https://chs6666.github.io/categories/HTML%E5%9F%BA%E7%A1%80/"/>
     
     
-      <category term="HTML" scheme="https://chs6666.github.io/tags/HTML/"/>
-    
-      <category term="CSS" scheme="https://chs6666.github.io/tags/CSS/"/>
-    
-      <category term="基础" scheme="https://chs6666.github.io/tags/%E5%9F%BA%E7%A1%80/"/>
+      <category term="HTML基础" scheme="https://chs6666.github.io/tags/HTML%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
@@ -104,7 +157,7 @@
     <link href="https://chs6666.github.io/2019/11/17/%E5%89%8D%E7%AB%AF%E5%BC%80%E7%AF%87/"/>
     <id>https://chs6666.github.io/2019/11/17/%E5%89%8D%E7%AB%AF%E5%BC%80%E7%AF%87/</id>
     <published>2019-11-17T15:28:22.000Z</published>
-    <updated>2019-12-08T00:18:11.068Z</updated>
+    <updated>2019-12-08T03:02:54.980Z</updated>
     
     <content type="html"><![CDATA[<blockquote class="blockquote-center">优秀的人，不是不合群，而是他们合群的人里面没有你</blockquote><h3 id="一-菜菜-个人时间表"><a href="#一-菜菜-个人时间表" class="headerlink" title="一.菜菜~个人时间表"></a>一.菜菜~个人时间表</h3><table>    <tr>        <td>时间</td>        <td>概要</td>    </tr>    <tr>        <td>上午</td>        <td></td>    </tr>    <tr>        <td>6:00-6:20</td>        <td>起床、洗漱</td>    </tr>    <tr>        <td>6:20-7:30</td>        <td>JS高级程序设计</td>    </tr>    <tr>        <td>7:30-8:00</td>        <td>吃早饭</td>    </tr>    <tr>        <td>8:00-12:00</td>        <td>JS高级程序设计</td>    </tr>    <tr>        <td>12:00-1:00</td>        <td>煮饭、午休时间</td>    </tr>    <tr>        <td>下午</td>        <td></td>    </tr>    <tr>        <td>1:00-2:00</td>        <td>JS高级程序设计</td>    </tr>    <tr>        <td>2:00-6:00</td>        <td>CSS权威指南</td>    </tr>    <tr>        <td>晚上</td>        <td></td>    </tr>    <tr>        <td>6:00-7:00</td>        <td>吃晚饭</td>    </tr>    <tr>        <td>7:00-10:00</td>        <td>JS高级程序设计</td>    </tr>    <tr>        <td>10:00-11:00</td>        <td>看课外书陶冶情操</td>    </tr>    <tr>        <td>11:00-12:00</td>        <td>英语单词</td>    </tr>    <tr>        <td>凌晨</td>        </tr>    <tr>        <td>12:00-1:00</td>        <td>复习当日知识点整理到博客上</td>    </tr>    <tr>        <td>1:00-2:00</td>        <td>看技术书</td>    </tr></table><a id="more"></a> <h3 id="二-目标标准"><a href="#二-目标标准" class="headerlink" title="二.目标标准"></a>二.目标标准</h3><ul><li>1.每天6:00起床</li><li>2.每天起床先定日计划</li><li>3.自习期间打起十足的精神,一门投入到自习中</li><li>4.复习需要动脑子</li><li>5.技术提升靠的是敲代码而不是看代码</li><li>6.当日事当日毕</li><li>7.提高效率做事(不会的问题先自己想想思路,不会去goole,若再不会问大牛)</li><li>8.知识点先整理到本子上,晚上整理到博客里</li><li>9.每天以面试题为主复习基础</li><li>10.每天英语学习单词50个,背一篇英语文章</li><li>11.每天阅读学习一小时</li><li>12.每天锻炼一小时</li></ul>]]></content>
     
@@ -190,9 +243,7 @@
       <category term="总计划" scheme="https://chs6666.github.io/categories/%E6%80%BB%E8%AE%A1%E5%88%92/"/>
     
     
-      <category term="前端" scheme="https://chs6666.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
-    
-      <category term="下定决心" scheme="https://chs6666.github.io/tags/%E4%B8%8B%E5%AE%9A%E5%86%B3%E5%BF%83/"/>
+      <category term="计划" scheme="https://chs6666.github.io/tags/%E8%AE%A1%E5%88%92/"/>
     
   </entry>
   
